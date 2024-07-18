@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\maciek\\source\\repos\\MaciejGrodecki\\SqlGenerator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2CA0E173-CB32-44CC-BC3C-6D0C6704E963}|src\\SqlGenerator.API\\SqlGenerator.API.csproj|c:\\users\\maciek\\source\\repos\\maciejgrodecki\\sqlgenerator\\src\\sqlgenerator.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CA0E173-CB32-44CC-BC3C-6D0C6704E963}|src\\SqlGenerator.API\\SqlGenerator.API.csproj|solutionrelative:src\\sqlgenerator.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2CA0E173-CB32-44CC-BC3C-6D0C6704E963}|src\\SqlGenerator.API\\SqlGenerator.API.csproj|c:\\users\\maciek\\source\\repos\\maciejgrodecki\\sqlgenerator\\src\\sqlgenerator.api\\database\\sqlgeneratordatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CA0E173-CB32-44CC-BC3C-6D0C6704E963}|src\\SqlGenerator.API\\SqlGenerator.API.csproj|solutionrelative:src\\sqlgenerator.api\\database\\sqlgeneratordatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -27,25 +23,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\maciek\\source\\repos\\MaciejGrodecki\\SqlGenerator\\src\\SqlGenerator.API\\Program.cs",
-              "RelativeDocumentMoniker": "src\\SqlGenerator.API\\Program.cs",
-              "ToolTip": "C:\\Users\\maciek\\source\\repos\\MaciejGrodecki\\SqlGenerator\\src\\SqlGenerator.API\\Program.cs",
-              "RelativeToolTip": "src\\SqlGenerator.API\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T10:52:07.861Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "SqlGeneratorDatabaseContext.cs",
               "DocumentMoniker": "C:\\Users\\maciek\\source\\repos\\MaciejGrodecki\\SqlGenerator\\src\\SqlGenerator.API\\Database\\SqlGeneratorDatabaseContext.cs",
               "RelativeDocumentMoniker": "src\\SqlGenerator.API\\Database\\SqlGeneratorDatabaseContext.cs",
               "ToolTip": "C:\\Users\\maciek\\source\\repos\\MaciejGrodecki\\SqlGenerator\\src\\SqlGenerator.API\\Database\\SqlGeneratorDatabaseContext.cs",
               "RelativeToolTip": "src\\SqlGenerator.API\\Database\\SqlGeneratorDatabaseContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-18T10:50:31.159Z",
               "EditorCaption": ""
