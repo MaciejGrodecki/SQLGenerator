@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\src",
+    "\\src\\SqlGenerator.API"
   ],
+  "SelectedNode": "\\src\\SqlGenerator.API\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
