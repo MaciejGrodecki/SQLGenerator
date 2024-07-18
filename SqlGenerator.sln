@@ -7,7 +7,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{FD9C9993-4D4
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{62B99A4F-2686-4046-9854-705C237BC635}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlGenerator.API", "src\SqlGenerator.API\SqlGenerator.API.csproj", "{2CA0E173-CB32-44CC-BC3C-6D0C6704E963}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SqlGenerator.API", "src\SqlGenerator.API\SqlGenerator.API.csproj", "{2CA0E173-CB32-44CC-BC3C-6D0C6704E963}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{05FCAE81-2AB1-429A-8C16-1C810A4D7F10}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		.gitignore = .gitignore
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
