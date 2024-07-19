@@ -1,0 +1,20 @@
+services:
+  sqlgenerator.api:
+    container_name: sqlgenerator-api-container
+    image: ${DOCKER_REGISTRY-}sqlgeneratorapi
+    environment:
+      - MSSQL_SA_PASSWORD=P@ssw0rd
+    build:
+      context: .
+      dockerfile: src/SqlGenerator.API/Dockerfile
+    depends_on:
+      - sqlgenerator-sqlserver
+
+  sqlgenerator-sqlserver:
+    container_name: sqlgenerator-sqlserver-container
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    environment:
+      - ACCEPT_EULA=Y
+      - MSSQL_SA_PASSWORD=P@ssw0rd
+    ports:
+      - "1433:1433"
