@@ -3,8 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\maciek\\source\\repos\\MaciejGrodecki\\SqlGenerator\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{89B2F940-6F8A-45E4-8BA4-4C92EA5228B6}|docker-compose.dcproj|c:\\users\\maciek\\source\\repos\\maciejgrodecki\\sqlgenerator\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{89B2F940-6F8A-45E4-8BA4-4C92EA5228B6}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA0E173-CB32-44CC-BC3C-6D0C6704E963}|src\\SqlGenerator.API\\SqlGenerator.API.csproj|c:\\users\\maciek\\source\\repos\\maciejgrodecki\\sqlgenerator\\src\\sqlgenerator.api\\dependencyinjection\\databaseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CA0E173-CB32-44CC-BC3C-6D0C6704E963}|src\\SqlGenerator.API\\SqlGenerator.API.csproj|solutionrelative:src\\sqlgenerator.api\\dependencyinjection\\databaseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA0E173-CB32-44CC-BC3C-6D0C6704E963}|src\\SqlGenerator.API\\SqlGenerator.API.csproj|c:\\users\\maciek\\source\\repos\\maciejgrodecki\\sqlgenerator\\src\\sqlgenerator.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CA0E173-CB32-44CC-BC3C-6D0C6704E963}|src\\SqlGenerator.API\\SqlGenerator.API.csproj|solutionrelative:src\\sqlgenerator.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89B2F940-6F8A-45E4-8BA4-4C92EA5228B6}|docker-compose.dcproj|c:\\users\\maciek\\source\\repos\\maciejgrodecki\\sqlgenerator\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{89B2F940-6F8A-45E4-8BA4-4C92EA5228B6}|docker-compose.dcproj|solutionrelative:launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89B2F940-6F8A-45E4-8BA4-4C92EA5228B6}|docker-compose.dcproj|c:\\users\\maciek\\source\\repos\\maciejgrodecki\\sqlgenerator\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{89B2F940-6F8A-45E4-8BA4-4C92EA5228B6}|docker-compose.dcproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA0E173-CB32-44CC-BC3C-6D0C6704E963}|src\\SqlGenerator.API\\SqlGenerator.API.csproj|c:\\users\\maciek\\source\\repos\\maciejgrodecki\\sqlgenerator\\src\\sqlgenerator.api\\database\\entityconfiguration\\databaseinformationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CA0E173-CB32-44CC-BC3C-6D0C6704E963}|src\\SqlGenerator.API\\SqlGenerator.API.csproj|solutionrelative:src\\sqlgenerator.api\\database\\entityconfiguration\\databaseinformationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA0E173-CB32-44CC-BC3C-6D0C6704E963}|src\\SqlGenerator.API\\SqlGenerator.API.csproj|c:\\users\\maciek\\source\\repos\\maciejgrodecki\\sqlgenerator\\src\\sqlgenerator.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2CA0E173-CB32-44CC-BC3C-6D0C6704E963}|src\\SqlGenerator.API\\SqlGenerator.API.csproj|solutionrelative:src\\sqlgenerator.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA0E173-CB32-44CC-BC3C-6D0C6704E963}|src\\SqlGenerator.API\\SqlGenerator.API.csproj|c:\\users\\maciek\\source\\repos\\maciejgrodecki\\sqlgenerator\\src\\sqlgenerator.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2CA0E173-CB32-44CC-BC3C-6D0C6704E963}|src\\SqlGenerator.API\\SqlGenerator.API.csproj|solutionrelative:src\\sqlgenerator.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2CA0E173-CB32-44CC-BC3C-6D0C6704E963}|src\\SqlGenerator.API\\SqlGenerator.API.csproj|c:\\users\\maciek\\source\\repos\\maciejgrodecki\\sqlgenerator\\src\\sqlgenerator.api\\database\\sqlgeneratordatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CA0E173-CB32-44CC-BC3C-6D0C6704E963}|src\\SqlGenerator.API\\SqlGenerator.API.csproj|solutionrelative:src\\sqlgenerator.api\\database\\sqlgeneratordatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA0E173-CB32-44CC-BC3C-6D0C6704E963}|src\\SqlGenerator.API\\SqlGenerator.API.csproj|c:\\users\\maciek\\source\\repos\\maciejgrodecki\\sqlgenerator\\src\\sqlgenerator.api\\entities\\databaseinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CA0E173-CB32-44CC-BC3C-6D0C6704E963}|src\\SqlGenerator.API\\SqlGenerator.API.csproj|solutionrelative:src\\sqlgenerator.api\\entities\\databaseinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,15 +58,132 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\maciek\\source\\repos\\MaciejGrodecki\\SqlGenerator\\launchSettings.json",
+              "RelativeDocumentMoniker": "launchSettings.json",
+              "ToolTip": "C:\\Users\\maciek\\source\\repos\\MaciejGrodecki\\SqlGenerator\\launchSettings.json",
+              "RelativeToolTip": "launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-18T18:19:57.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\maciek\\source\\repos\\MaciejGrodecki\\SqlGenerator\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\maciek\\source\\repos\\MaciejGrodecki\\SqlGenerator\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-18T18:10:12.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\maciek\\source\\repos\\MaciejGrodecki\\SqlGenerator\\src\\SqlGenerator.API\\Dockerfile",
+              "RelativeDocumentMoniker": "src\\SqlGenerator.API\\Dockerfile",
+              "ToolTip": "C:\\Users\\maciek\\source\\repos\\MaciejGrodecki\\SqlGenerator\\src\\SqlGenerator.API\\Dockerfile",
+              "RelativeToolTip": "src\\SqlGenerator.API\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-18T17:58:52.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\maciek\\source\\repos\\MaciejGrodecki\\SqlGenerator\\src\\SqlGenerator.API\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\SqlGenerator.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\maciek\\source\\repos\\MaciejGrodecki\\SqlGenerator\\src\\SqlGenerator.API\\appsettings.json",
+              "RelativeToolTip": "src\\SqlGenerator.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-18T17:58:50.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DatabaseInformationConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\maciek\\source\\repos\\MaciejGrodecki\\SqlGenerator\\src\\SqlGenerator.API\\Database\\EntityConfiguration\\DatabaseInformationConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\SqlGenerator.API\\Database\\EntityConfiguration\\DatabaseInformationConfiguration.cs",
+              "ToolTip": "C:\\Users\\maciek\\source\\repos\\MaciejGrodecki\\SqlGenerator\\src\\SqlGenerator.API\\Database\\EntityConfiguration\\DatabaseInformationConfiguration.cs",
+              "RelativeToolTip": "src\\SqlGenerator.API\\Database\\EntityConfiguration\\DatabaseInformationConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T17:38:30.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DatabaseInformation.cs",
+              "DocumentMoniker": "C:\\Users\\maciek\\source\\repos\\MaciejGrodecki\\SqlGenerator\\src\\SqlGenerator.API\\Entities\\DatabaseInformation.cs",
+              "RelativeDocumentMoniker": "src\\SqlGenerator.API\\Entities\\DatabaseInformation.cs",
+              "ToolTip": "C:\\Users\\maciek\\source\\repos\\MaciejGrodecki\\SqlGenerator\\src\\SqlGenerator.API\\Entities\\DatabaseInformation.cs",
+              "RelativeToolTip": "src\\SqlGenerator.API\\Entities\\DatabaseInformation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T17:33:22.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "SqlGeneratorDatabaseContext.cs",
               "DocumentMoniker": "C:\\Users\\maciek\\source\\repos\\MaciejGrodecki\\SqlGenerator\\src\\SqlGenerator.API\\Database\\SqlGeneratorDatabaseContext.cs",
               "RelativeDocumentMoniker": "src\\SqlGenerator.API\\Database\\SqlGeneratorDatabaseContext.cs",
               "ToolTip": "C:\\Users\\maciek\\source\\repos\\MaciejGrodecki\\SqlGenerator\\src\\SqlGenerator.API\\Database\\SqlGeneratorDatabaseContext.cs",
               "RelativeToolTip": "src\\SqlGenerator.API\\Database\\SqlGeneratorDatabaseContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T10:50:31.159Z",
+              "WhenOpened": "2024-07-18T11:02:29.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DatabaseConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\maciek\\source\\repos\\MaciejGrodecki\\SqlGenerator\\src\\SqlGenerator.API\\DependencyInjection\\DatabaseConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\SqlGenerator.API\\DependencyInjection\\DatabaseConfiguration.cs",
+              "ToolTip": "C:\\Users\\maciek\\source\\repos\\MaciejGrodecki\\SqlGenerator\\src\\SqlGenerator.API\\DependencyInjection\\DatabaseConfiguration.cs",
+              "RelativeToolTip": "src\\SqlGenerator.API\\DependencyInjection\\DatabaseConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T10:56:23.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maciek\\source\\repos\\MaciejGrodecki\\SqlGenerator\\src\\SqlGenerator.API\\Program.cs",
+              "RelativeDocumentMoniker": "src\\SqlGenerator.API\\Program.cs",
+              "ToolTip": "C:\\Users\\maciek\\source\\repos\\MaciejGrodecki\\SqlGenerator\\src\\SqlGenerator.API\\Program.cs",
+              "RelativeToolTip": "src\\SqlGenerator.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T10:55:23.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "C:\\Users\\maciek\\source\\repos\\MaciejGrodecki\\SqlGenerator\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "C:\\Users\\maciek\\source\\repos\\MaciejGrodecki\\SqlGenerator\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001004|",
+              "WhenOpened": "2024-07-18T18:18:15.902Z",
               "EditorCaption": ""
             }
           ]
